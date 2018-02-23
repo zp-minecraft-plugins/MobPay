@@ -1,0 +1,4 @@
+name: MobPay
+main: me.zackpollard.mobpay.MobPay
+version: "0.2"
+commands:
